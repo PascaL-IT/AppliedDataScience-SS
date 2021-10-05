@@ -1,5 +1,5 @@
 ![image](https://user-images.githubusercontent.com/36189996/136047907-9f6430c8-fc83-4edb-91a3-0c6f724ce8cf.png)
-![image](https://user-images.githubusercontent.com/36189996/136048478-b91c0552-6245-4211-a217-d9f388800066.png)
+![image](https://user-images.githubusercontent.com/36189996/136049332-786daa80-a6da-4380-bc1e-34bbe5e63d82.png)
 
 
 # Applied Data Science  (ADS - Skillshare)
