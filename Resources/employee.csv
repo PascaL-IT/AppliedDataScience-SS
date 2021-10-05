@@ -1,0 +1,4 @@
+"","empId","empName","isManager","salary"
+"1",1,"John",FALSE,1242.11
+"2",2,"Mike",TRUE,3490.2
+"3",3,"Randy",FALSE,2201.87
