@@ -1,4 +1,8 @@
-# Data Science Applied (DSA - Skillshare)
+![image](https://user-images.githubusercontent.com/36189996/136047907-9f6430c8-fc83-4edb-91a3-0c6f724ce8cf.png)
+![image](https://user-images.githubusercontent.com/36189996/136048478-b91c0552-6245-4211-a217-d9f388800066.png)
+
+
+# Applied Data Science  (ADS - Skillshare)
 
 This course focuses on purpose, usage, advantages, processes, concepts of Data Science. 
 It explains how Data Science (DS) works from data elements through relationships and predictions. 
@@ -31,3 +35,4 @@ training Data, reinforcement learning, confusion matrix, predictions (bias, vari
 linear regression, decision trees, Naïves Bayes, random forest, K Means clustering, 
 Association Rules Mining, Artifical Neural Networks, Support Vector Machines,
 Bagging, Boosting, Dimensionality Reduction, Classification And REgression Training package ...    
+
